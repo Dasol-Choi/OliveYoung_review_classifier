@@ -5,6 +5,9 @@
 * Labeling
   * 핵심 문장 분류 : 0 - 핵심이 아닌 문장, 1 - 핵심문장 (16,000 문장)
   * 긍/부정 분류 : 0 - 부정 문장, 1 - 긍정 문장 (6,000 문장)
+## 사용한 모델
+* KlUE-BERT : BERT 기반 한국어 추가 학습 모델 
+* ![](https://github.com/codespaces)
 ## Model Process
 <img src="https://github.com/Dasol-Choi/OliveYoung_review_classifier/blob/main/figures/model_process.png" width=100% height=100%/><br>
 ## Key Sentence Classifier
