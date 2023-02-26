@@ -4,5 +4,6 @@
 ## Model Process
 ![model process](https://github.com/Dasol-Choi/OliveYoung_review_classifier/blob/main/figures/model_process.png)
 ## Key Sentence Classifier
-![key_sent_model](https://github.com/Dasol-Choi/OliveYoung_review_classifier/blob/main/figures/key_sentence_models.png?raw=true)
+<img src="https://github.com/Dasol-Choi/OliveYoung_review_classifier/blob/main/figures/key_sentence_models.png?raw=true" width=75% height=75%/><br>
 ## Sentiment Classifier
+<img src="https://github.com/Dasol-Choi/OliveYoung_review_classifier/blob/main/figures/key_sentence_models.png?raw=true" width=75% height=75%/><br>
