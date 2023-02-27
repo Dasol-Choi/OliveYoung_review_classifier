@@ -5,9 +5,10 @@
 * Labeling
   * 핵심 문장 분류 : 0 - 핵심이 아닌 문장, 1 - 핵심문장 (16,000 문장)
   * 긍/부정 분류 : 0 - 부정 문장, 1 - 긍정 문장 (6,000 문장)
-## 사용한 모델
-* KlUE-BERT : BERT 기반 한국어 추가 학습 모델 
-* ![](https://github.com/codespaces)
+## Korean Pre-trained Language Models
+* KlUE-BERT 
+  * 벤치마크 데이터인 KLUE에서 베이스라인으로 사용되었던 모델로, 모두의 말뭉치, CC-100-Kor, 나무위키, 뉴스, 청원 등 문서에서 추출한 63GB의 데이터로 학습되었다. Morpheme-based Subword Tokenizer를 사용하였으며, vocab size는32,000이고 모델의 크기는 111M이다.
+* [KlUE-BERT github](https://github.com/codespaces) 
 ## Model Process
 <img src="https://github.com/Dasol-Choi/OliveYoung_review_classifier/blob/main/figures/model_process.png" width=100% height=100%/><br>
 ## Key Sentence Classifier
